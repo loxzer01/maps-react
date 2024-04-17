@@ -1,0 +1,1 @@
+export { converterStringToQuery } from "./converterStringToQuery";
